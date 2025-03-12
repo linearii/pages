@@ -22,7 +22,11 @@ title: Linear
 email: linear.sldk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   오늘도 도전한다 블로그 대통합의 꿈
+header_pages:
+- categories/books.markdown
+- categories/movies.markdown
+- categories/challenge.markdown
+- categories/essays.markdown
 
-github_username: linearii
-fediverse_url: https://hackers.pub/@linear
+twitter_username: linear_crv
 theme: minima
