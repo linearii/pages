@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2021 2분기 영화/공연 결산
+categories: movies
 ---
 
 ### 노매드랜드
